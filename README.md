@@ -90,4 +90,6 @@ README.md # Project documentation
 
 ## 👤 Author
 
+Mohamed Aziz Dakhlaoui
+
 Unsupervised learning project based on the Iris dataset using DBSCAN for clustering and anomaly detection.
